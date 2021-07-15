@@ -19,7 +19,8 @@
     "node": "12.x"
   },
   "repository": {
-    "url": "https://glitch.com/edit/#!/glitch-hello-node"
+    "tpye": "git",
+    "url": "git+https://github.com/Nuthsthuns/uvvu/tree/main.git"
   },
   "license": "MIT",
   "keywords": [
