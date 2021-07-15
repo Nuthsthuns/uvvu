@@ -4,8 +4,7 @@
   "description": "A simple Node app built on fastify, instantly up and running.",
   "main": "server.js",
   "scripts": {
-    "start": "node index.js",
-    "node .": "node run index.js"
+    "start": "node server.js"
   },
   "dependencies": {
     "fastify": "^3.14.1",
@@ -19,8 +18,7 @@
     "node": "12.x"
   },
   "repository": {
-    "tpye": "git",
-    "url": "git+https://github.com/Nuthsthuns/uvvu/tree/main.git"
+    "url": "https://glitch.com/edit/#!/glitch-hello-node"
   },
   "license": "MIT",
   "keywords": [
